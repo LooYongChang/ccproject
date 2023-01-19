@@ -1,0 +1,37 @@
+Table
+
+Name:Langkapten
+Price:458
+Discription:Limited space doesn’t mean you have to say no to studying or working from home. This desk takes up little floor space yet still has a drawer unit where you can store papers and other important things.
+
+Name:Linnmon
+Price:99
+Discription:Mix and match your choice of table top and legs – or choose this ready-made combination. Strong and light-weight, made with a technique that uses less raw materials, reducing the impact on the environment.
+
+Name:Sandsberg
+Price:379
+Discription:A slim design that blends in without taking up too much visual space in the room, yet sturdy enough to hold up to everyday activities.
+
+Name:Micke
+Price:449
+Discription:A clean and simple look that fits just about anywhere. You can combine it with other desks or drawer units in the MICKE series to extend your work space. The clever design at the back hides messy cables.
+
+Name:Melltorp
+Price:219
+Discription:This table suits many people from the minimalist to the family demanding everyday strength and durability. Put it in the kitchen or in the dining room. The clean design combines well with many styles.
+
+Name:Lack Side Table
+Price:39
+Discription:This LACK table in white is easy to match with other furnishings. Thanks to the unique construction, it’s easy to assemble, lift and move around - and we can keep the prices down, so your spirits go up.
+
+Name:Ingo Table
+Price:249
+Discription:Untreated solid pine is a durable natural material that can be painted, oiled or stained according to preference.
+
+Name:Malm Dressing Table
+Price:499
+Discription:It’s really a dressing table – with space for make-up and jewellery inside. But, works just as well as a desk, a place to unload keys or mail in the entrance or to pile magazines behind the couch.
+
+Name:Bjoerkasen
+Price:99
+Discription:This steady beige laptop stand helps you study, work or play an instrument with sheet music. It´s easy to adjust the height, tilt the top, move around in the home – and even fold for storage.
